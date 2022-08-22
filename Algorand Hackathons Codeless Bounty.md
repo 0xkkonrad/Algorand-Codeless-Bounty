@@ -7,8 +7,6 @@
 
 # [Video](https://tella.video/algorand-codeless-bounty-1-0pcv)
 
-# [Deck](https://docs.google.com/presentation/d/1BEkZ2-qoX19S6ymQV22rsVy4y9qWmUGb-j_4KI7NbRw/edit#slide=id.g133f970efa5_7_121)
-
 # Executive Summary (aka TLDR)
 
 This is an outline of a events-based marketing strategy to bring Degens to the Algorand ecosystem. Degens fall into two categories: technical and business categories. Technical degens are well-addressed by Hackathon-based coding challenges, whilst business-minded degens are attracted by codeless tasks or opportunities to team up with technical degens. 
